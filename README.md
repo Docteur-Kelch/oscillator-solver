@@ -1,4 +1,4 @@
-#Damped Oscillator Solver
+# Damped Oscillator Solver
 
 C++ implementation of a numerical solver for a damped harmonic oscillator using the Range-Kutta 4 Method.
 
