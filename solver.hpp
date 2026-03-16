@@ -5,7 +5,6 @@ Interface solveur
 #define	SOLVER_HPP
 #include "oscillator.hpp"
 
-//on definit une classe solveur
 
 class Solver {
 public:
